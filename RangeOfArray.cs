@@ -22,7 +22,7 @@ namespace PropertysPractice
         {
             get
             {
-                if (i > LowerBound && i < UpperBound)
+                if (i >= LowerBound && i < UpperBound)
                 {
                     return arr[i - LowerBound];
                 }
@@ -31,7 +31,7 @@ namespace PropertysPractice
 
             set
             {
-                if (i > LowerBound && i < UpperBound)
+                if (i >= LowerBound && i < UpperBound)
                 {
                     arr[i - LowerBound] = value;
                 }

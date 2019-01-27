@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PropertysPractice\PropertysPractice\bin\Debug\PropertysPractice.exe.config
+C:\Users\User\source\repos\PropertysPractice\PropertysPractice\bin\Debug\PropertysPractice.exe
+C:\Users\User\source\repos\PropertysPractice\PropertysPractice\bin\Debug\PropertysPractice.pdb
+C:\Users\User\source\repos\PropertysPractice\PropertysPractice\obj\Debug\PropertysPractice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PropertysPractice\PropertysPractice\obj\Debug\PropertysPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PropertysPractice\PropertysPractice\obj\Debug\PropertysPractice.exe
+C:\Users\User\source\repos\PropertysPractice\PropertysPractice\obj\Debug\PropertysPractice.pdb
